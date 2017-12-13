@@ -5,7 +5,7 @@ title: "About"
 layouts_gallery:
   - url: /assets/images/giraffe-centre.jpg
     image_path: /assets/images/giraffe-centre.jpg
-    alt: "map of route"
+    alt: "giraffe centre"
 
 ---
 
