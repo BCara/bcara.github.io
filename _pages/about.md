@@ -1,6 +1,10 @@
 ---
 permalink: /about/
 title: "About"
+author_profile: true
+type: pages
+layout: single
+
 
 layouts_gallery:
   - url: /assets/images/giraffe-centre.jpg

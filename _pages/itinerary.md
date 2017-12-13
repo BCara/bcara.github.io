@@ -1,6 +1,7 @@
 ---
 permalink: /itinerary/
 title: "Itinerary"
+author_profile: true
 type: pages
 layout: single
 
