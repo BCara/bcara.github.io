@@ -1,40 +1,39 @@
 ---
 layout: splash
-permalink: /home/
+permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/dubai-flight.png
-  
-  
-  
+  overlay_image: /assets/images/mm-home-page-feature.jpg
+  cta_label: "<i class='fa fa-download'></i> Install Now"
+  cta_url: "/docs/quick-start-guide/"
   caption:
-excerpt: 'Cara and Joes Travelling Adventures {::nomarkdown}{:/nomarkdown}'
+excerpt: 'A flexible two-column Jekyll theme. Perfect for personal sites, blogs, and portfolios hosted on GitHub or your own server.<br /> <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.8.0">Latest release v4.8.0</a></small><br /><br /> {::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 feature_row:
-  - image_path: /assets/images/elephants-etosha-waterhole.jpg
-    alt: "elephants at waterhole"
-    title: "Blog Posts"
-    excerpt: "View our blog posts"
-    url: "/year-archive/"
+  - image_path: /assets/images/mm-customizable-feature.png
+    alt: "customizable"
+    title: "Super Customizable"
+    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+    url: "/docs/configuration/"
     btn_class: "btn--primary"
-    btn_label: "Blog Posts"
-  - image_path: /assets/images/map-basic.jpg
-    alt: "Itinerary"
-    title: "Itinerary"
-    excerpt: "More information on our itinerary"
-    url: "/itinerary/"
+    btn_label: "Learn More"
+  - image_path: /assets/images/mm-responsive-feature.png
+    alt: "fully responsive"
+    title: "Responsive Layouts"
+    excerpt: "Built on HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+    url: "/docs/layouts/"
     btn_class: "btn--primary"
-    btn_label: "Itinerary"
-  - image_path: /assets/images/four-lion-cubs.jpg
-    alt: "four lion cubs"
-    title: "Gallery"
-    excerpt: "View more photos from our trip"
-    url: "/gallery/"
+    btn_label: "Learn More"
+  - image_path: /assets/images/mm-free-feature.png
+    alt: "100% free"
+    title: "100% Free"
+    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it, whatever!"
+    url: "/docs/license/"
     btn_class: "btn--primary"
-    btn_label: "Gallery"
-
-  - excerpt: '{::nomarkdown}{:/nomarkdown}'
+    btn_label: "Learn More"
+github:
+  - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 intro:
-
+  - excerpt: 'Get notified when I add new stuff &nbsp; [<i class="fa fa-twitter"></i> @mmistakes](https://twitter.com/mmistakes){: .btn .btn--twitter} [<i class="fa fa-paypal"></i> Tip Me](https://www.paypal.me/mmistakes){: .btn .btn--primary}'
 ---
 
 {% include feature_row id="intro" type="center" %}
