@@ -1,6 +1,9 @@
 ---
 permalink: /itinerary/
 title: "Itinerary"
+type: pages
+layout: single
+
 
 layouts_gallery:
   - url: /assets/images/map-basic.jpg
