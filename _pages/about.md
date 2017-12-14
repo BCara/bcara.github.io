@@ -1,5 +1,5 @@
 ---
-permalink: /home/about/
+permalink: /about/
 title: "About"
 author_profile: true
 type: pages
