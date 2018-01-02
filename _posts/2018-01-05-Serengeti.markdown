@@ -1,8 +1,8 @@
 ---
 layout: single
-title:  "Ngorongoro and Serengeti"
+title:  "Ngorongoro Crater and Serengeti"
 date:   2017-12-21 15:21:00 
-categories: Victoria Falls
+categories: Serengeti, Ngorongoro Crater
 
 excerpt: "
  "
