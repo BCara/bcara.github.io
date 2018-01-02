@@ -15,8 +15,10 @@ layouts_gallery:
 
 {% include gallery id="layouts_gallery" %}
 
-Cara and Joe take on the World... Not quite, let's start with southern Africa on a two month tour. 
-The trip starts with a quick stopover in Dubai and then straight into Cape Town where the plan is to cage dive with Sharks. After Cape Town the journey takes us through a number of countries including:
+Cara and Joe take on the World... Not quite. They have just come back from a two month tour around southern/eastern africa. 
+The trip started with a quick stopover in Dubai and then straight on to Cape Town to begin the African adventure. The African trip was guided by Africa Travel Company and included multiple game drives, cultural experiences and scenic excursions. 
+
+42 days, 10,310km travelled and 7 countries visted:
 
 Namibia,
 Botswana,
@@ -25,5 +27,7 @@ Zambia,
 Tanzania
 and finally Kenya.
 
-The trip is guided by Africa Travel Company and will include a trip to the Orange River, Victoria Falls, the Serengeti (hopefully) and more.
+The next stage in their adventures will take them to South America early 2018. Stay tuned to find out more!
+
+
  
