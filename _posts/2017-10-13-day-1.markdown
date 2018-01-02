@@ -2,7 +2,7 @@
 layout: single
 title:  "Day 1"
 date:   2017-10-15 09:48:59 +0100
-categories: first day of tour
+categories: africa
 ---
 
 

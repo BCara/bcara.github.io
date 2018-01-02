@@ -2,7 +2,7 @@
 layout: single
 title:  "Etosha National Park"
 date:   2017-10-26 09:00:00 +0200
-categories: Etosha National Park
+categories: africa
 
 ---
 

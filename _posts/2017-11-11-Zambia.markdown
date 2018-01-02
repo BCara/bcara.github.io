@@ -2,7 +2,7 @@
 layout: single
 title:  "Zambia"
 date:   2017-11-11 15:15:00 +0200
-categories: zambia
+categories: africa
 ---
 
 We have just passed the border from Zambia into Malawi and are heading towards Lake Malawi. 

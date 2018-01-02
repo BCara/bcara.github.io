@@ -2,7 +2,7 @@
 layout: single
 title:  "Bye Namibia, Hello Botswana"
 date:   2017-10-27 06:34:00 +0200
-categories: Namibia Summary
+categories: africa
 ---
 
 

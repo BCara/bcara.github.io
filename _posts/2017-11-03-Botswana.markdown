@@ -2,7 +2,7 @@
 layout: single
 title:  "Botswana"
 date:   2017-11-03 09:34:00 +0200
-categories: Botswana
+categories: africa
 ---
 
 Botswana is my favourite country so far as it is essentially one large national park that contains each of the big 5. There are no fences to keep animals contained which means that many are found wandering the roadside, ranging from cattle to giraffes. 

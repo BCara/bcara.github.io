@@ -2,7 +2,7 @@
 layout: single
 title:  "Chobe National Park"
 date:   2017-11-09 12:36:00 +0200
-categories: chobe, botswana
+categories: africa
 ---
 
 Chobe is another National Park in Botswana and we were lucky enough to see it both from the river and also two nights bush camping. The bush camping was not quite as luxurious as the Delta although it did feel closer to the animals.

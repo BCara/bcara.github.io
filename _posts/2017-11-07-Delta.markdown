@@ -2,7 +2,7 @@
 layout: single
 title:  "Okavanga Delta"
 date:   2017-11-07 10:16:00 +0200
-categories: Okavanga Delta
+categories: africa
 ---
 
 The Okavango Delta provided our first real opportunity to spend time with the locals and sleep in the wild. The delta is an area of land and waterways whose shapes and positions change with the season.

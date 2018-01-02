@@ -2,7 +2,7 @@
 layout: single
 title:  "First Stop, Dubai"
 date:   2017-10-10 09:47:59 +0300
-categories: first post dubai
+categories: dubai
 ---
 
 So our Journey takes us to Dubai for a quick stopover before we head to Cape Town to begin the journey through Southern Africa. 
