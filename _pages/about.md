@@ -24,6 +24,7 @@ Namibia,
 Botswana,
 Zimbabwe,
 Zambia,
+Malawi,
 Tanzania
 and finally Kenya.
 
