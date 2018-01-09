@@ -41,9 +41,9 @@ Malawi
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/141696511@N06/albums/72157667336988639" title="Malawi"><img src="https://farm5.staticflickr.com/4585/24128784907_bc26d72a5e.jpg" width="500" height="375" alt="Malawi"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Tanzania
+Serengeti
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/141696511@N06/albums/72157667336988609" title="Tanzania"><img src="https://farm5.staticflickr.com/4644/38106356225_592eaec074.jpg" width="500" height="281" alt="Tanzania"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/141696511@N06/albums/72157662222698917" title="Serengeti and Ngorongoro"><img src="https://farm5.staticflickr.com/4730/39455927861_37d3c214b2.jpg" width="500" height="281" alt="Serengeti and Ngorongoro"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Kenya, Nairobi
 
