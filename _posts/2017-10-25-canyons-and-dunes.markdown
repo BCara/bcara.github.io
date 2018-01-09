@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Canyons and Dunes"
+title:  "Namibia, Canyons and Dunes"
 date:   2017-10-25 17:34:00 +0200
 categories: africa
 
