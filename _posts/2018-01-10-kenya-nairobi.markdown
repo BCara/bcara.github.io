@@ -4,10 +4,6 @@ title: "Nairobi, Kenya"
 date: 2018-01-10 16:34:00
 categories: africa
 
-excerpt: ""
-
-header:
-  overlay_image: /assets/images/elephant-banner.JPG
 ---
 
 Our last and final stop within Africa was Nairobi in Kenya. As we headed to Nairobi the traffic was unbelievable, I have never seen anything like it. It was a complete stand still with cars and lorries forcing themselves through impossible gaps and some very strange maneuvers. There was a point where our truck went down a small but steep drop into the middle and I have to admit I was slightly scared of the truck tipping over. According to our guide the amount of traffic around Nairobi was not normal so I'm not sure what was going on.
