@@ -240,6 +240,12 @@ compress_html:
   ignore:
     envs: development
 
+# Collections
+collections:
+  update:
+    output: true
+    permalink: /:collection/:path/
+
 
 # Defaults
 defaults:
@@ -254,3 +260,16 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _update
+  - scope:
+      path: ""
+      type: update
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "update"
+
