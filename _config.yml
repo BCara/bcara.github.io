@@ -242,7 +242,7 @@ compress_html:
 
 # Collections
 collections:
-  update:
+  dailyupdate:
     output: true
     permalink: /:collection/:path/
 
@@ -260,16 +260,11 @@ defaults:
       comments: # true
       share: true
       related: true
-  # _update
+  # _dailyupdate
   - scope:
       path: ""
-      type: update
+      type: dailyupdate
     values:
       layout: single
-      read_time: false
-      author_profile: false
-      share: false
-      comments: false
-      sidebar:
-        nav: "update"
+
 
