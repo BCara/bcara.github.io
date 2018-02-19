@@ -12,6 +12,10 @@ View the photos from our travels below. You can either flick through the photos 
 
 ## South America
 
+Rio, Brazil 
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/141696511@N06/albums/72157690491312392" title="Rio, Brazil"><img src="https://farm5.staticflickr.com/4714/25418872197_66277dd69d.jpg" width="500" height="375" alt="Rio, Brazil"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 ## Southern/Eastern Africa
 
 South Africa
