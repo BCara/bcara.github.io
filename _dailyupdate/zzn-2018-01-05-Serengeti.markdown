@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Ngorongoro Crater and Serengeti"
-date:   2017-12-21 15:21:00 
+last_modified_at:   2017-12-21 15:21:00 
 categories: africa
 
 excerpt: "

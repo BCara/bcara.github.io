@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Blog Posts"
-    url: /year-archive/
+    url: /blog-posts/
   - title: "Daily Update"
     url: /daily-update/
   - title: "Gallery"

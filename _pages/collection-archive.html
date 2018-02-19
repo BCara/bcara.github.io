@@ -1,18 +1,17 @@
 ---
 layout: archive
-title: "Daily Update"
-permalink: /daily-update/
+title: "Blog Posts"
+permalink: /blog-posts/
 author_profile: true
 ---
 
 {% capture written_label %}'None'{% endcapture %}
 
-{% assign items = site.collections | sort: 'date' %}
-{% for collection in site.collections %}
+{% for collection in site.collections reversed %}
   {% unless collection.output == false or collection.label == "posts" %}
     {% capture label %}{{ collection.label }}{% endcapture %}
     {% if label != written_label %}
-<p> The posts below will be updated daily (internet permitting) to provide a brief update of our journey </p>
+
       {% capture written_label %}{{ label }}{% endcapture %}
     {% endif %}
   {% endunless %}

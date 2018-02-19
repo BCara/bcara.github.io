@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Namibia, Canyons and Dunes"
-date:   2017-10-25 17:34:00 +0200
+last_modified_at:   2017-10-25 17:34:00 +0200
 categories: africa
 
 excerpt: "

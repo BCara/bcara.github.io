@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Victoria Falls, Zimbabwe"
-date:   2017-11-05 09:34:00 +0200
+last_modified_at:   2017-11-05 09:34:00 +0200
 categories: africa
 
 excerpt: "

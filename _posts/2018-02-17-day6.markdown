@@ -1,7 +1,9 @@
 ---
+layout: single
 title: "17th Feb 2018"
-permalink: /17Feb2018/
-last_modified_at: 2018-02-17T09:49:52-05:00
+date:   2017-02-17 14:32:00 +0300
+categories: daily
+author: true
 
 ---
 

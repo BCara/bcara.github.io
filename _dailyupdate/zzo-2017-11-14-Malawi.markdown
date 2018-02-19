@@ -1,8 +1,9 @@
 ---
 layout: single
 title:  "Malawi"
-date:   2017-11-14 14:32:00 +0300
+last_modified_at:   2017-11-14 14:32:00 +0300
 categories: africa
+author: true
 ---
 
 3 days in Malawi just wasn't long enough and unfortunately most of that time was spent travelling, again. As with Zambia, Malawi becomes even greener and less populated with wild animals. Just after entry we passed through what used to be an old wildlife reserve but after the animals migrated it can no longer be called that. We did, however, see a couple of elephants in the distance that even the locals were impressed to see. 

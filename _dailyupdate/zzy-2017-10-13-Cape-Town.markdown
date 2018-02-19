@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "The Beginning, Cape Town"
-date:   2017-10-14 09:47:59 +0100
+last_modified_at:   2017-10-14 09:47:59 +0100
 categories: africa
 ---
 Arriving in Cape Town we were advised by both our Uber driver and hotel receptionist that we should not walk around at night, an ominous way to begin our journey, although ultimately accurate.
