@@ -3,6 +3,7 @@ layout: single
 title: "Nairobi, Kenya"
 last_modified_at: 2018-01-10 16:34:00
 categories: africa
+author: true
 
 ---
 
