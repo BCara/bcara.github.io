@@ -10,10 +10,7 @@ layout: single
 
 View the photos from our travels below. You can either flick through the photos by hovering over the image and selecting the arrow or click on the photo and it will take you through to our flickr site.
 
-
-## Dubai
-
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/141696511@N06/albums/72157667336988669" title="Dubai"><img src="https://farm5.staticflickr.com/4573/38277104384_ff9e542493.jpg" width="500" height="281" alt="Dubai"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+## South America
 
 ## Southern/Eastern Africa
 
@@ -48,5 +45,11 @@ Serengeti
 Kenya, Nairobi
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/141696511@N06/albums/72157688294308012" title="Nairobi, Kenya"><img src="https://farm5.staticflickr.com/4736/27230362369_c1163ba249.jpg" width="500" height="376" alt="Nairobi, Kenya"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+## Dubai
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/141696511@N06/albums/72157667336988669" title="Dubai"><img src="https://farm5.staticflickr.com/4573/38277104384_ff9e542493.jpg" width="500" height="281" alt="Dubai"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+
 
 
