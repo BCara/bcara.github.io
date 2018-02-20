@@ -4,6 +4,7 @@ permalink: /gallery/
 author_profile: true
 type: pages
 layout: single
+toc: true
 
 
 ---
