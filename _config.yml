@@ -256,7 +256,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: # true
       share: true
       related: true
@@ -266,5 +266,7 @@ defaults:
       type: dailyupdate
     values:
       layout: single
+      comments: true
+      author_profile: true
 
 
