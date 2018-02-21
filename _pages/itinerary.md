@@ -4,6 +4,7 @@ title: "Itinerary"
 author_profile: true
 type: pages
 layout: single
+toc: true
 
 
 layouts_gallery:
@@ -11,21 +12,39 @@ layouts_gallery:
     image_path: /assets/images/map-basic.jpg
     alt: "map of route"
 
----
+layouts_gall:
+  - url: /assets/images/map-samerica.jpg
+    image_path: /assets/images/map-samerica.jpg
+    alt: "map of route"
 
-Our total trip was 56 days, starting with a stopover in Dubai and spending some much needed extra time in Nairobi at the end of the tour.
+---
+## South America
+12th February 2018 to ...
+
+### Map
+{% include gallery id="layouts_gall" %}
+
+### Activities
+
+| Country                                     | Activities                                          |
+| ------------------------------------------- | ----------------------------------------------------- |
+| Brazil | Rio de Janeiro, Iguazu Falls |
+| Paraguay | Itaipu Dam |
+| Argentina | Iguazu Falls |
 
 
 ## Southern/Eastern Africa
+10th October 2017 to 28th November 2017
 Overlanding from Cape Town (South Africa) to Nairobi (Kenya) with the africatravelcompany.com
 
 10,310km travelled in 42 days
 
+We also stayed a few extra days in South Africa and ended with a much needed few days in Nairobi our total African Adventure was 53 days.
 
-
+### Map
 {% include gallery id="layouts_gallery" %}
 
-## Activities
+### Activities
 
 | Country                                     | Activities                                          |
 | ------------------------------------------- | ----------------------------------------------------- |
@@ -39,4 +58,12 @@ Overlanding from Cape Town (South Africa) to Nairobi (Kenya) with the africatrav
 | Kenya | Nairobi - David Sheldrick Elephant Orphanage, Giraffe Centre, Kurara Forest |
 
 
+## Dubai
+6th October 2017 to 9th October 2017
+Dubai was a stopover on our way to South Africa. We chose to spend 3 days here before continuing on. 
 
+Activities Included:
+- Wild Wadi Waterpark.
+- Desert Safari; This included sand boarding, camel rides, BBQ, Henna, Shisha, Entertainment and Dune Buggy Bashing.
+- Vist to the Gold Souk
+- Visit to Emirates Mall (Although we should have gone to Dubai Mall)
