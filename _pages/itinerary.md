@@ -35,6 +35,7 @@ layouts_gall:
 
 ## Southern/Eastern Africa
 10th October 2017 to 28th November 2017
+
 Overlanding from Cape Town (South Africa) to Nairobi (Kenya) with the africatravelcompany.com
 
 10,310km travelled in 42 days
@@ -60,6 +61,7 @@ We also stayed a few extra days in South Africa and ended with a much needed few
 
 ## Dubai
 6th October 2017 to 9th October 2017
+
 Dubai was a stopover on our way to South Africa. We chose to spend 3 days here before continuing on. 
 
 ### Activities
