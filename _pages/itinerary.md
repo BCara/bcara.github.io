@@ -62,7 +62,7 @@ We also stayed a few extra days in South Africa and ended with a much needed few
 6th October 2017 to 9th October 2017
 Dubai was a stopover on our way to South Africa. We chose to spend 3 days here before continuing on. 
 
-Activities Included:
+### Activities
 - Wild Wadi Waterpark.
 - Desert Safari; This included sand boarding, camel rides, BBQ, Henna, Shisha, Entertainment and Dune Buggy Bashing.
 - Vist to the Gold Souk
