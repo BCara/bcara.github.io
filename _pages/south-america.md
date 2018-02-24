@@ -15,7 +15,7 @@ toc: true
 - Foz de Iguazu 
 
 **Currency:** Brazilian Real
-**Payment:** Card was accepted at most restaurants, bars and shops. All tourist activities were payable by card. Some websites noted that there may be issues with card cloning but we had no prolems. 
+**Payment:** Card was accepted at most restaurants, bars and shops. All tourist activities were payable by card. Some websites noted that there may be issues with card cloning but we had no prolems.   
 Monzo card worked fine.  
 **ATMS:** The airports charged roughly £5 for withdrawals.  
 **Visas:** For a UK citizen there were no visa requirements for a tourist for up to 90 days.  
