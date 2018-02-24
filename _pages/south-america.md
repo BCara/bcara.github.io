@@ -10,7 +10,7 @@ toc: true
 ---
 
 ## Brazil
-### 12th February 2018 to 20th February 2018
+12th February 2018 to 20th February 2018
 - Rio
 - Foz de Iguazu 
 
@@ -34,7 +34,7 @@ We used a three phone with a Feel At Home Advanced package and we had no issues.
 
 
 ## Argentina
-### 20 February 2018 to ...
+20 February 2018 to ...
 - Puerto Iguazu (20th to 21st February)
 - Buenos Aires (21st to 27th February)
 
