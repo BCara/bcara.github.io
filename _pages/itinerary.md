@@ -18,7 +18,7 @@ layouts_gall:
     alt: "map of route"
 
 ---
-## South America
+## [South America](/south-america/)
 12th February 2018 to ...
 
 ### Map
@@ -30,7 +30,7 @@ layouts_gall:
 | ------------------------------------------- | ----------------------------------------------------- |
 | Brazil | Rio de Janeiro, Iguazu Falls |
 | Paraguay | Itaipu Dam |
-| Argentina | Iguazu Falls |
+| Argentina | Iguazu Falls, Buenos Aires |
 
 
 ## Southern/Eastern Africa
