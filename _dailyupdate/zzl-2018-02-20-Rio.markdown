@@ -7,7 +7,7 @@ categories: south america
 excerpt: "
  "
 header:
-  overlay_image: /assets/images/sugarloaf.JPG
+  overlay_image: /assets/images/vic-falls-banner.JPG
 
 ---
 
