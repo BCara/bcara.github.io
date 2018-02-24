@@ -18,7 +18,7 @@ layouts_gall:
     alt: "map of route"
 
 ---
-## [South America](/samerica/)
+## [South America](/itinerary/samerica/)
 12th February 2018 to ...
 
 ### Map

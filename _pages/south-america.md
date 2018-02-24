@@ -10,7 +10,7 @@ toc: true
 ---
 
 ## Brazil
-###12th February 2018 to 20th February 2018
+### 12th February 2018 to 20th February 2018
 - Rio
 - Foz de Iguazu 
 
@@ -22,7 +22,7 @@ Monzo card worked fine.
 **Internet & Phone:** It's worth checking with the specific Hostel/Hotel. We had no problems accept occassional drop outs at our hotel. 
 We used a three phone with a Feel At Home Advanced package and we had no issues. At some points the internet connectivity was slow but there were no major problems. 
 
-###Rio
+### Rio
 **ATMS:** On our arrival in Rio (Tuesday 13th February) we struggled to get cash as banks were closed and boarded for Carnaval. The next day they were open but each Santander branch and a couple of other branch types wouldn't allow us to withdraw any money. Banco do Brazil finally worked.
 **Travel:** Ubers in Rio were readily available as well as buses for R$3.60 a ride. A metro is also available but we never tried it. There is also a good walking route that is easy to follow. Google maps showed information for public transport. 
 **Internet:** It's worth checking with the specific Hostel/Hotel. A few bars had wifi.
@@ -34,7 +34,7 @@ We used a three phone with a Feel At Home Advanced package and we had no issues.
 
 
 ## Argentina
-###20 February 2018 to ...
+### 20 February 2018 to ...
 - Puerto Iguazu (20th to 21st February)
 - Buenos Aires (21st to 27th February)
 
@@ -49,7 +49,7 @@ Monzo card and Starling card worked fine.
 **Travel:** There were no Ubers and google maps did not show public transport information.  
 **Internet:** Hotel or Hostel only.
 
-###Buenos Aires
+### Buenos Aires
 **ATMS:** Fee was charged
 **Travel:** Ubers are available and google maps shows public transport information.  
 **Internet:** Wifi is pretty much everywhere. Most restaurants and bars and occassionaly in the street you will pick up a connection, expecially in the most popular places. 
