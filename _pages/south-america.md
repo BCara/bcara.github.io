@@ -14,7 +14,7 @@ toc: true
 - Rio
 - Foz de Iguazu 
 
-**Currency:** Brazilian Real
+**Currency:** Brazilian Real  
 **Payment:** Card was accepted at most restaurants, bars and shops. All tourist activities were payable by card. Some websites noted that there may be issues with card cloning but we had no prolems.   
 Monzo card worked fine.  
 **ATMS:** The airports charged roughly £5 for withdrawals.  
@@ -34,7 +34,7 @@ We used a three phone with a Feel At Home Advanced package and we had no issues.
 
 
 ## Argentina
-20 February 2018 to ...
+20th February 2018 to ...
 - Puerto Iguazu (20th to 21st February)
 - Buenos Aires (21st to 27th February)
 
