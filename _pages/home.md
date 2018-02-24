@@ -14,7 +14,7 @@ feature_row:
     alt: "elephants at waterhole"
     title: "Blog Posts"
     excerpt: "View our blog posts"
-    url: "/year-archive/"
+    url: "/blog-posts/"
     btn_class: "btn--primary"
     btn_label: "Blog Posts"
   - image_path: /assets/images/map-basic.jpg
