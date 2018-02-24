@@ -20,6 +20,7 @@ layouts_gall:
 ---
 ## [South America](/itinerary/samerica/)
 12th February 2018 to ...
+[Click here]/itinerary/samerica/) for more specific place information within the countries. 
 
 ### Map
 {% include gallery id="layouts_gall" %}
