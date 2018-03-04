@@ -25,6 +25,10 @@ Buenos Aires; Argentina
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/141696511@N06/albums/72157693365273194" title="Buenos Aires"><img src="https://farm5.staticflickr.com/4616/40582063591_1d91756850.jpg" width="500" height="375" alt="Buenos Aires"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+Colonia Del Sacremento; Uruguay
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/141696511@N06/albums/72157664345998197" title="Colonia Del Sacrmento, Uruguay"><img src="https://farm5.staticflickr.com/4665/40578019702_0c55fc065a.jpg" width="500" height="375" alt="Colonia Del Sacrmento, Uruguay"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Iguazu Falls and Itaipu; Brazil, Paraguay and Argentina
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/141696511@N06/albums/72157692859468064" title="Iguazu Falls and Itaipu"><img src="https://farm5.staticflickr.com/4649/40369520201_98254114bb.jpg" width="500" height="375" alt="Iguazu Falls and Itaipu"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
