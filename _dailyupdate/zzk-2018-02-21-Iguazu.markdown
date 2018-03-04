@@ -20,7 +20,7 @@ All in all it was an amazing day with the Brazil side of the falls being truly s
 The following day we decided to nip into Paraguay and visit the Itaipu Dam. It is possible to do this trip from Brazil but after doing some research it looked as though the cheapest option was Paraguay as their tour around the dam is free. 
 We started our journey into Paraguay and Joe started to panic as we passed the border. If you are on a public bus they don't stop at the border so you just go along through. However, this appeared to be the norm. 
 
-We ended up getting off the bus at the last stop and
+We ended up getting off the bus at the last stop which was the complete wrong stop and struggled to work out how to get to the Dam as no one spoke english. At this point we had no map or translator downloaded but some how managed 
 
 ## Iguazu Falls - Argentina
 

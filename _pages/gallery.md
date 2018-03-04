@@ -13,13 +13,25 @@ View the photos from our travels below. You can either flick through the photos 
 
 ## South America
 
-Rio; Brazil 
+Punta Arenas
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/141696511@N06/albums/72157690491312392" title="Rio, Brazil"><img src="https://farm5.staticflickr.com/4714/25418872197_66277dd69d.jpg" width="500" height="375" alt="Rio, Brazil"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/141696511@N06/albums/72157692304451211" title="Punta Arenas"><img src="https://farm5.staticflickr.com/4667/39687699285_9b79470038.jpg" width="500" height="375" alt="Punta Arenas"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Ushuaia
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/141696511@N06/albums/72157688391623910" title="Ushaia"><img src="https://farm5.staticflickr.com/4759/26710510038_865c28e23a.jpg" width="500" height="375" alt="Ushaia"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Buenos Aires
+
 
 Iguazu Falls and Itaipu; Brazil, Paraguay and Argentina
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/141696511@N06/albums/72157692859468064" title="Iguazu Falls and Itaipu"><img src="https://farm5.staticflickr.com/4649/40369520201_98254114bb.jpg" width="500" height="375" alt="Iguazu Falls and Itaipu"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+
+Rio; Brazil 
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/141696511@N06/albums/72157690491312392" title="Rio, Brazil"><img src="https://farm5.staticflickr.com/4714/25418872197_66277dd69d.jpg" width="500" height="375" alt="Rio, Brazil"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Southern/Eastern Africa
 
