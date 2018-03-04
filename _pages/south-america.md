@@ -54,4 +54,8 @@ Monzo card and Starling card worked fine.
 **Travel:** Ubers are available and google maps shows public transport information.  
 **Internet:** Wifi is pretty much everywhere. Most restaurants and bars and occassionaly in the street you will pick up a connection, expecially in the most popular places.  
 
+### Ushuaia
+**ATMS:** Plenty of ATMs but fee was charged.  
+**Travel:** Ubers were not available and google maps did not show public transport. There is a tourist centre in the aiport and they will be able to provide a map and point out places to book onward bus travel. Taxis are readily available at the airport. Buses go every hour (starting from 8AM) from the bus terminal to Tierra Del Fuego.  
+**Internet:** WiFi is available in some cafes and restaurants, usually they will have a WiFi sticker. 
  
