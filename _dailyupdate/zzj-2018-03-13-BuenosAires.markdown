@@ -46,3 +46,7 @@ Taking lunch by the shore we watched the locals fishing before visiting the near
 Walking through the town there are many cafes, ice cream parlours and restaurants. Given that we are trying to save our money and had already had a steak dinner the day before we decided to spend our remaining time sitting/snoozing on the shore. It is a beautiful little town but 6 hours was probably an excessive time to spend there.
 
 Both Argentina and Uruguay really are beautiful. We came to South America to tick it off the list as it is not an easy or cheap place to visit from the UK but now we would definitely like to return in the future. There is definitely an opening in the market for some cleaner more affordable hostels so maybe we should do just that.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/141696511@N06/albums/72157693365273194" title="Buenos Aires"><img src="https://farm5.staticflickr.com/4616/40582063591_1d91756850.jpg" width="500" height="375" alt="Buenos Aires"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Joe Dunleavy
