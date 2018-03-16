@@ -34,11 +34,12 @@ We used a three phone with a Feel At Home Advanced package and we had no issues.
 
 
 ## Argentina
-20th February 2018 to ...
+20th February 2018 to 1st March
 - Puerto Iguazu (20th to 21st February)
 - Buenos Aires (21st to 27th February)
+- Ushuaia (27th February to 1st March)
 
-**Currency:** Aregentinian Pesos  
+**Currency:** Argentinian Pesos  
 **Payment:** Card was not accepted at many places. Some restaurants and bars accepted card.   
 Monzo card and Starling card worked fine.  
 **ATMS:** Cash points charged a fee.  
@@ -59,3 +60,45 @@ Monzo card and Starling card worked fine.
 **Travel:** Ubers were not available and google maps did not show public transport. There is a tourist centre in the aiport and they will be able to provide a map and point out places to book onward bus travel. Taxis are readily available at the airport. Buses go every hour (starting from 8AM) from the bus terminal to Tierra Del Fuego.  
 **Internet:** WiFi is available in some cafes and restaurants, usually they will have a WiFi sticker. 
  
+
+## Chile
+
+2nd March 2018 to 11th March 2018
+- Punta Arenas (1st March to 3rd March)
+- Puerto Natales (3rd March to 6th March and 10th to 11th March)
+- Torres Del Paine (6th March to 10th March)
+
+**Currency:** Chilean Pesos  
+**Payment:** Card was not accepted at many places. Some restaurants and bars accepted card.   
+Monzo card and Starling card worked fine.  
+**ATMS:** Cash points charged a fee.  
+**Visas:** For a UK citizen there were no visa requirements for a tourist for up to 90 days.  
+
+### Punta Arenas
+**ATMS:** Quite a few ATMs down one particular street but all appeared to charge.  
+
+### Puerto Natales 
+**ATMS:** There were a few ATMs around the main part of Puerto Natales town. Each charged different rates for the fee.   
+
+### Torres Del Paine
+**ATMS:** No ATMs  
+**Payment:** Card was accepted at Cuernos camp site.   
+**Internet:** Wifi available at the main campsites (not the free ones). Charges 10 USD for 8 hours and 5 USD for 1 hour.   
+
+## Argentina
+11th March 2018 to ...
+- El Calafate (11th March to 12th March)
+- El Chalten (12th March to 14th March)
+
+### El Calafate
+**Payment:** Cash payment was requires in many places including at our hostel and the national park. Bus fares were payable by card.
+
+### El Chalten
+**ATMS:** There is an ATM available but we never used it. I suspect it charged a fee. 
+**Payment:** Cash was required in many places including hostel and supermarkets. 
+**Internet:** Wifi is not good around the whole town due to it's location. 
+
+
+
+
+

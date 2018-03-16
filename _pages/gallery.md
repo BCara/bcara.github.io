@@ -13,6 +13,23 @@ View the photos from our travels below. You can either flick through the photos 
 
 ## South America
 
+El Chalten; Argentina 
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/141696511@N06/albums/72157664637913657" title="El Chalten"><img src="https://farm5.staticflickr.com/4795/40736945722_9ca783c096.jpg" width="500" height="375" alt="El Chalten"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+El Calafate; Argentina
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/141696511@N06/albums/72157694533888195" title="El Calafate"><img src="https://farm1.staticflickr.com/801/25962932627_2f89a99df1.jpg" width="500" height="375" alt="El Calafate"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+
+Torres Del Paine; Chile
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/141696511@N06/albums/72157694440465955" title="Torres Del Paine"><img src="https://farm5.staticflickr.com/4782/38975172750_0500026286.jpg" width="375" height="500" alt="Torres Del Paine"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Puerto Natales; Chile
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/141696511@N06/albums/72157688459391420" title="Puerto Natales"><img src="https://farm5.staticflickr.com/4740/39724748025_599075e303.jpg" width="500" height="375" alt="Puerto Natales"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Punta Arenas; Chile
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/141696511@N06/albums/72157692304451211" title="Punta Arenas"><img src="https://farm5.staticflickr.com/4667/39687699285_9b79470038.jpg" width="500" height="375" alt="Punta Arenas"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
