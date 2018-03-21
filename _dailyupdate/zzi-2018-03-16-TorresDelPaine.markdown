@@ -12,7 +12,7 @@ header:
 layouts_wtorres:
   - url: /assets/images/trekw-map.jpg
     image_path: /assets/images/trekw-map-map.jpg
-    alt: "Torres Day1"
+    alt: "Map"
 layouts_torres-day1:
   - url: /assets/images/torres-day1.jpg
     image_path: /assets/images/torres-day1.jpg
