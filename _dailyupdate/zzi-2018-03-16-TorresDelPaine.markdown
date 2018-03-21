@@ -24,7 +24,7 @@ layouts_torres-day2:
 layouts_torres-day3:
   - url: /assets/images/torres-day3.jpg
     image_path: /assets/images/torres-day3.jpg
-    alt: "Torres Day 3 to Mirador Brtannico"
+    alt: "Torres Day 3 to Mirador Brtanico"
 layouts_torres-day4:
   - url: /assets/images/torres-day4.jpg
     image_path: /assets/images/torres-day4.jpg
@@ -59,7 +59,7 @@ The hike itself wasn't too difficult just regular ups and downs. The weather was
 
 {% include gallery id="layouts_torres-day2" %}
 
-**Day 3 - Hike to Mirador Britannico**
+**Day 3 - Hike to Mirador Britanico**
 
 Although this was our longest day and longer than it needed to be it was by far my favourite! The first part of the trek was from our campsite Cuernos to the Italiano campsite. This part of the trek was meant to take 2.5 hours but we managed it in less than 2 as we were determined to make it all the way up the middle part of the W.  
 Thankfully we were able to drop our bags here so we did and then made our ascent. The terrain was similar to the first day hiking with a steep incline at the start and end with a nice relaxed middle. At first we really went for it and it was so tiring. It didn't take long before we started to slow down as we realised the steep section wasn't levelling out any time soon. From the very start of the hike we had a fantastic view of glacier Frances and when you looked back you could see the pristine lake. We made it to the view point but it was only on our way down that we stopped to take it all in. I'm glad we did as we saw some ice calving and as it hit the ice below a huge area of misty snow covered the area.  
