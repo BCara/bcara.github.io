@@ -30,7 +30,7 @@ We used a three phone with a Feel At Home Advanced package and we had no issues.
 
 ### Foz de Iguazu
 **Travel:** There were no Ubers and google maps did not show public transport information.  
-**Internet:** Hotel or Hostel only.
+**Internet:** Hotel or Hostel only.  
 
 
 ## Argentina
@@ -58,7 +58,7 @@ Monzo card and Starling card worked fine.
 ### Ushuaia
 **ATMS:** Plenty of ATMs but fee was charged.  
 **Travel:** Ubers were not available and google maps did not show public transport. There is a tourist centre in the aiport and they will be able to provide a map and point out places to book onward bus travel. Taxis are readily available at the airport. Buses go every hour (starting from 8AM) from the bus terminal to Tierra Del Fuego.  
-**Internet:** WiFi is available in some cafes and restaurants, usually they will have a WiFi sticker. 
+**Internet:** WiFi is available in some cafes and restaurants, usually they will have a WiFi sticker.   
  
 
 ## Chile
@@ -91,12 +91,12 @@ Monzo card and Starling card worked fine.
 - El Chalten (12th March to 14th March)
 
 ### El Calafate
-**Payment:** Cash payment was requires in many places including at our hostel and the national park. Bus fares were payable by card.
+**Payment:** Cash payment was requires in many places including at our hostel and the national park. Bus fares were payable by card.  
 
 ### El Chalten
-**ATMS:** There is an ATM available but we never used it. I suspect it charged a fee. 
-**Payment:** Cash was required in many places including hostel and supermarkets. 
-**Internet:** Wifi is not good around the whole town due to it's location. 
+**ATMS:** There is an ATM available but we never used it. I suspect it charged a fee.  
+**Payment:** Cash was required in many places including hostel and supermarkets.  
+**Internet:** Wifi is not good around the whole town due to it's location.  
 
 
 
