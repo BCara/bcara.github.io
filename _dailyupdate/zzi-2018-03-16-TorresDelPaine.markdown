@@ -39,6 +39,11 @@ Each night we were camping but hiring equipment at the camp sites so we didn't n
 
 {% include gallery id="layouts_wtorres" %}
 
+Day 1 - Red 
+Day 2 - Blue
+Day 3 - Purple 
+Day 4 - Orange
+
 
 **Day 1 - Hike to the Towers**
 
