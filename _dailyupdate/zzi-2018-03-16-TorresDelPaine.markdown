@@ -11,7 +11,7 @@ header:
 
 layouts_wtorres:
   - url: /assets/images/trekw-map.jpg
-    image_path: /assets/images/torres-map.jpg
+    image_path: /assets/images/trekw-map-map.jpg
     alt: "Torres Day1"
 layouts_torres-day1:
   - url: /assets/images/torres-day1.jpg
@@ -19,8 +19,8 @@ layouts_torres-day1:
     alt: "Torres Day1"
 layouts_torres-day2:
   - url: /assets/images/torres-day2.jpg
-    image_path: /assets/images/torres-day3.jpg
-    alt: "torres Day 2 Las Torres to Cuernco"
+    image_path: /assets/images/torres-day2.jpg
+    alt: "torres Day 2 Las Torres to Cuerno"
 layouts_torres-day3:
   - url: /assets/images/torres-day3.jpg
     image_path: /assets/images/torres-day3.jpg
@@ -37,19 +37,22 @@ layouts_torres-day4:
 This was our first ever multi-day hike. The hikes through the Torres Del Paine National Park are a common activity in Chile with the main routes being the W or the circuit. We went with the W, the circuit includes the W trek and as it was our first multi-day hike we decided to start with the easiest option.  
 Each night we were camping but hiring equipment at the camp sites so we didn't need to worry about a tent, sleeping bags or mats. All we really needed to prepare was food and clothes. The easy part was the clothes as we had already been advised that we needed one pair of trekking clothes and one pair of non-trekking clothes. The hard part was the food! We had no idea how much or what food was best to take. We ended up renting a stove and some pans and ultimately ended up taking too much food, far too many nuts/trail mix. It sounded like a smart idea to pack together a mixture of nuts and dried fruit, which I suppose it was but we brought a ridiculous amount and didn't eat it as we had packed enough other snacks. We actually came back with more nuts than we left as on one of the days we were given packed lunch. They weren't exactly the lightest thing to be trekking with!
 
+{% include gallery id="layouts_wtorres" %}
+
+
 **Day 1 - Hike to the Towers**
 
 Day 1 started by getting up early and getting the bus to the national park. It was a really scenic bus journey and we saw some llamas roaming around the roads. On arrival to the park we registered and watched a safety video and got the shuttle to our first camp site. There wasn't much on the camp site but our tent was already set up so we were good to go on our first hike.  
 We were doing the hike the wrong way round, normally you'd save the towers for the finale but we struggled with bookings. The hike was pretty incredible but both the start and end of the trek were hard work as they were fairly steep inclines. The middle section was a little more relaxing walking through the forest. Unfortunately the weather wasn't great so when we got to the top the towers were still misty but it was still pretty amazing.
 
-{% include gallery id="torres-day1" %}
+{% include gallery id="layouts_torres-day1" %}
 
 **Day 2 - Hike from Las Torres to Cuernos**
 
 This was our shortest day with only about 11 km on a fairly easy road although we did have to lug all our stuff with us, including the nuts! This day was nice and short but it did mean that the following day was extra long.  
 The hike itself wasn't too difficult just regular ups and downs. The weather was perfect today. We started off miserable putting on horrible wet clothes from the day before but they soon dried and there were gorgeous views over the lakes. The landscape was beautiful, we passed mountains, glaciers and streams. Words really can't do it justice!
 
-{% include gallery id="torres-day2" %}
+{% include gallery id="layouts_torres-day2" %}
 
 **Day 3 - Hike to Mirador Britannico**
 
@@ -58,7 +61,7 @@ Thankfully we were able to drop our bags here so we did and then made our ascent
 The trek continued through the forest following the river with regular openings to show the surrounding glaciers. At the top we had a 360 degree view of glaciers, simply stunning!!  
 From Italiano to our next campsite (Paine Grande) it said 11km 2.5 hours. We had previously been told it was the easy bit and as it was about 4pm, we thought we would mission it on through. Two and a half hours in and it looked as though we were nowhere near. The signs completely disagreed with what was actually happening, the kilometers were all wrong it also said we were meant to be descending but we just kept going up. Bearing in mind we had already walked a ridiculous amount of km at this point. We were starting to get super tired but we made it to the campsite 3.5 hours later totally exhausted but in a good way.
 
-{% include gallery id="torres-day3" %}
+{% include gallery id="layouts_torres-day3" %}
 
 **Day 4 - Hike to Glaciar Grey**
 
@@ -66,7 +69,7 @@ The fourth day was disappointing for me. We never actually made it to the glacie
 On the bright side we made it to the first view point but unfortunately we couldn't see anything because of the mist.  
 It wasn't totally bad as we did manage to see some ice bergs floating in the lake which was pretty cool.
 
-{% include gallery id="torres-day4" %}
+{% include gallery id="layouts_torres-day4" %}
 
 All in all it was **AMAZING** and hopefully we will be doing more multi-day hikes, maybe after a rest first though.
 
