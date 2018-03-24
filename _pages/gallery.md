@@ -13,6 +13,14 @@ View the photos from our travels below. You can either flick through the photos 
 
 ## South America
 
+Chiloe; Chile
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/141696511@N06/albums/72157691750789132" title="Chiloe"><img src="https://farm5.staticflickr.com/4780/27114295928_17a7d3b69d.jpg" width="500" height="375" alt="Chiloe"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Bariloche; Argentina
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/141696511@N06/albums/72157665001863067" title="Bariloche"><img src="https://farm1.staticflickr.com/783/39176199960_01e5161f24.jpg" width="500" height="375" alt="Bariloche"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 El Chalten; Argentina 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/141696511@N06/albums/72157664637913657" title="El Chalten"><img src="https://farm5.staticflickr.com/4795/40736945722_9ca783c096.jpg" width="500" height="375" alt="El Chalten"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
