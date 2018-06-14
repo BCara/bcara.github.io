@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/galapagos-banner.png
+  overlay_image: /assets/images/galapagos-banner.jpg
   
   
   
