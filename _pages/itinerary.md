@@ -31,17 +31,21 @@ layouts_gall:
 | ------------------------------------------- | ----------------------------------------------------- |
 | Brazil | Rio de Janeiro, Iguazu Falls |
 | Paraguay | Itaipu Dam |
-| Argentina | Iguazu Falls, Buenos Aires |
+| Argentina | Iguazu Falls, Buenos Aires, Tierra Del Fuego - Ushuaia,  |
+| Chile | Chiloe |
+| Bolivia | Uyuni Salt Flats, Sucre - Spanish Lessons, Cycle Death Road - La Paz |
+| Peru | Machu Picchu, Rainbow Mountain, Colca Canyon - Arequipa, Nasca Lines, Sandboarding - Huacachina, Lima, Mancora |
+| Ecuador | Montanita, Guayaquil, Galapagos Islands, Quito |
 
 
 ## Southern/Eastern Africa
 10th October 2017 to 28th November 2017
 
-Overlanding from Cape Town (South Africa) to Nairobi (Kenya) with the africatravelcompany.com
+Overlanding from Cape Town (South Africa) to Nairobi (Kenya) with the africatravelcompany (ATC) booked through onthegotours.co.uk.
 
 10,310km travelled in 42 days
 
-We also stayed a few extra days in South Africa and ended with a much needed few days in Nairobi our total African Adventure was 53 days.
+We also stayed a few extra days in South Africa and ended with a much needed few days in Nairobi. Our total African Adventure was 53 days.
 
 ### Map
 {% include gallery id="layouts_gallery" %}
