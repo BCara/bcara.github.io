@@ -18,8 +18,18 @@ layouts_gall:
     alt: "map of route"
 
 ---
+
+## [Australia](/itinerary/australia/)
+October 2018 to present
+[Click here](/itinerary/australia/) 
+
+Our journey began with a one-year adventure in Australia, intending to immerse ourselves in the vibrant working life of Melbourne, renowned as the world's top place to live. 
+
+Little did we know that this initial plan would never end and we would still be here with an addition to the family. What were once big adventures have transformed into a myriad of mini escapades Our travel blog chronicles the stories of our extended stay, filled with the essence of Melbourne's culture and the countless surprises that each mini adventure unveils. 
+
+
 ## [South America](/itinerary/samerica/)
-12th February 2018 to ...  
+February 2018 to August 2018
 [Click here](/itinerary/samerica/) for more specific place information within the countries. 
 
 ### Map
