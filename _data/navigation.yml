@@ -2,7 +2,7 @@
 main:
   - title: "Blog Posts"
     url: /blog-posts/
-  - title: "Daily Update"
+  - title: "Day Snapshot"
     url: /daily-update/
   - title: "Gallery"
     url: /gallery/
