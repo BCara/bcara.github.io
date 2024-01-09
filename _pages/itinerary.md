@@ -27,6 +27,18 @@ Our journey began with a one-year adventure in Australia, intending to immerse o
 
 Little did we know that this initial plan would never end and we would still be here with an addition to the family. What were once big adventures have transformed into a myriad of mini escapades Our travel blog chronicles the stories of our extended stay, filled with the essence of Melbourne's culture and the countless surprises that each mini adventure unveils. 
 
+### Victoria
+
+- Wilsons Prom
+- Philip Island
+- Mornington Peninsula
+- CBD (City Centre)
+- Grampians
+
+### Queensland
+
+- Cairns
+- Port Douglas
 
 ## [South America](/itinerary/samerica/)
 February 2018 to August 2018
