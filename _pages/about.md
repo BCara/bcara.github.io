@@ -15,17 +15,7 @@ layouts_gallery:
 
 {% include gallery id="layouts_gallery" %}
 
-Not quite. After an extensive tour around Southern and Eastern Africa, they have continued their incredible journey. The trip started with a quick stopover in Dubai and then straight on to Cape Town to begin the African adventure. The African trip was guided by Africa Travel Company and included multiple game drives, cultural experiences, and scenic excursions.
-
-42 days, 10,310 km travelled, and 7 countries visited:
-
-    Namibia
-    Botswana
-    Zimbabwe
-    Zambia
-    Malawi
-    Tanzania
-    Kenya
+Not quite. After an extensive tour around Southern and Eastern Africa, they have continued their incredible journey. The trip started with a quick stopover in Dubai and then straight on to Cape Town to begin the African adventure. The African trip was guided by Africa Travel Company and included multiple game drives, cultural experiences, and scenic excursions (42 days, 10,310 km travelled, and 7 countries visited).
 
 After their African adventure, Cara and Joe continued their journey to **South America** and **Central America** in early 2018. They explored the diverse landscapes, vibrant cultures, and historic sites of the continent, adding another incredible chapter to their travel stories.
 
