@@ -27,7 +27,7 @@ Not quite. After an extensive tour around Southern and Eastern Africa, they have
     Tanzania
     Kenya
 
-After their African adventure, Cara and Joe continued their journey to South America in early 2018. They explored the diverse landscapes, vibrant cultures, and historic sites of the continent, adding another incredible chapter to their travel stories.
+After their African adventure, Cara and Joe continued their journey to **South America** and **Central America** in early 2018. They explored the diverse landscapes, vibrant cultures, and historic sites of the continent, adding another incredible chapter to their travel stories.
 
 Their adventures didn't stop there. They have since moved to Australia, where they continue to explore and experience new places, albeit on a smaller scale. From the bustling cities to the serene outback, their love for adventure remains as strong as ever.
 
