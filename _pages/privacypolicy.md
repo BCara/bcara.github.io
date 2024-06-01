@@ -23,15 +23,15 @@ Cookies and Tracking Technologies
 
 Our Site uses cookies and other tracking technologies to enhance your experience. Cookies are small data files that are placed on your device when you visit a website. We use cookies for the following purposes:
 
-    Understanding and Saving Preferences: We use cookies to understand and save your preferences for future visits.
-    Analyzing Site Traffic and Interactions: We use cookies to compile aggregate data about site traffic and site interactions to offer better site experiences and tools in the future. We also use trusted third-party services like Google Analytics that track this information on our behalf.
-    Advertising: We use Google AdSense to serve ads on our Site. Google AdSense uses cookies to serve ads based on a user's previous visits to our Site or other websites. Google's use of advertising cookies enables it and its partners to serve ads to our users based on their visit to our Site and/or other sites on the Internet.
+- Understanding and Saving Preferences: We use cookies to understand and save your preferences for future visits.
+- Analyzing Site Traffic and Interactions: We use cookies to compile aggregate data about site traffic and site interactions to offer better site experiences and tools in the future. We also use trusted third-party services like Google Analytics that track this information on our behalf.
+- Advertising: We use Google AdSense to serve ads on our Site. Google AdSense uses cookies to serve ads based on a user's previous visits to our Site or other websites. Google's use of advertising cookies enables it and its partners to serve ads to our users based on their visit to our Site and/or other sites on the Internet.
 
 **2. Types of Cookies We Use**
 
-    Essential Cookies: These cookies are necessary for the Site to function properly and cannot be turned off in our systems.
-    Performance and Analytics Cookies: These cookies help us understand how visitors interact with our Site by collecting and reporting information anonymously. We use Google Analytics to help analyze how users use the Site.
-    Advertising Cookies: These cookies are used to make advertising messages more relevant to you. They perform functions like preventing the same ad from continuously reappearing, ensuring that ads are properly displayed, and in some cases, selecting advertisements that are based on your interests.
+- Essential Cookies: These cookies are necessary for the Site to function properly and cannot be turned off in our systems.
+- Performance and Analytics Cookies: These cookies help us understand how visitors interact with our Site by collecting and reporting information anonymously. We use Google Analytics to help analyze how users use the Site.
+- Advertising Cookies: These cookies are used to make advertising messages more relevant to you. They perform functions like preventing the same ad from continuously reappearing, ensuring that ads are properly displayed, and in some cases, selecting advertisements that are based on your interests.
 
 **3. Third-Party Cookies**
 
