@@ -8,7 +8,7 @@ header:
   
   
   caption:
-excerpt: 'Cara and Joes Travelling Adventures {::nomarkdown}{:/nomarkdown}'
+excerpt: 'Welcome to our travel blog! We are Cara and Joe, two avid travelers exploring the world one adventure at a time. Here, you'll find stories from our journeys, detailed itineraries, and a gallery of our favorite moments captured on camera. Take a look and grab some travel tips for your adventures {::nomarkdown}{:/nomarkdown}'
 feature_row:
   - image_path: /assets/images/elephants-etosha-waterhole.jpg
     alt: "elephants at waterhole"
