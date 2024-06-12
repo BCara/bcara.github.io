@@ -1,5 +1,5 @@
 ---
-permalink: /contact/
+permalink: /contactus/
 title: "Contact Us"
 author_profile: true
 type: pages
