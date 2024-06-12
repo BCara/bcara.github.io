@@ -10,7 +10,8 @@ main:
     url: /itinerary/
   - title: "About"
     url: /about/
-
+- title: "Contact Us"
+    url: /contact/
   - title: "Privacy Policy"
     url: /privacypolicy/
 
