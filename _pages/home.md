@@ -4,9 +4,11 @@ permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/galapagos-banner.jpg
+  
+  
+  
   caption:
-excerpt: 'Cara and Joe's Travelling Adventures {::nomarkdown}{:/nomarkdown}'
-
+excerpt: 'Cara and Joes Travelling Adventures {::nomarkdown}{:/nomarkdown}'
 feature_row:
   - image_path: /assets/images/elephants-etosha-waterhole.jpg
     alt: "elephants at waterhole"
@@ -31,9 +33,7 @@ feature_row:
     btn_label: "Gallery"
 
   - excerpt: '{::nomarkdown}{:/nomarkdown}'
-
 intro:
-  - excerpt: "Welcome to our travel blog! We are Cara and Joe, two avid travelers exploring the world one adventure at a time. Here, you'll find stories from our journeys, detailed itineraries, and a gallery of our favorite moments captured on camera. Take a look and grab some travel tips for your adventures"
 
 ---
 
