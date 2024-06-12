@@ -13,21 +13,15 @@ layouts_gallery:
 
 ---
 
-We would love to hear from you! Please fill out the form below to get in touch with us.
+Welcome to Cara and Joe Travels ("we," "our," or "us"). We value your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website.
 
-<form action="https://formspree.io/f/xayrrovd" method="POST">
-  <label for="name">Name:</label>
-  <input type="text" id="name" name="name" required><br>
+**1. Data Collection**
 
-  <label for="email">Email:</label>
-  <input type="email" id="email" name="email" required><br>
+We do not collect any other data from our users. Our use of cookies is limited to those placed by third-party vendors, including Google, for the purpose of serving ads. We do not gather, store, or process any personal information from our users.
 
-  <label for="message">Message:</label><br>
-  <textarea id="message" name="message" rows="4" required></textarea><br>
+**2. Cookies**
 
-  <input type="submit" value="Send">
-</form>
+We may use third-party services, such as Google Analytics and Google AdSense, that set their own cookies and track various metrics. These third-party service providers have their own privacy policies addressing how they use such information. You can learn more about how Google uses data when you use our Site by visiting Google's Privacy Policy.
 
-
-
+Users may opt out of personalized advertising by visiting [Ads Settings](https://www.google.com/settings/ads). Alternatively, users can opt out of a third-party vendor's use of cookies for personalized advertising by visiting [www.aboutads.info](http://www.aboutads.info).
 
