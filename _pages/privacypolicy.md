@@ -22,7 +22,7 @@ We prioritize your privacy and do not collect any personal data from our users. 
 We utilize third-party services, such as Google Analytics and Google AdSense, which may set their own cookies and track various metrics. These third-party service providers have their own privacy policies that describe how they use the information they collect. For detailed information on how Google uses data when you visit our site, please review Google's Privacy Policy.
 **Managing Cookies and Advertising Preferences**
 
-    Personalized Advertising: Users can manage their preferences and opt out of personalized advertising by visiting [Ads Settings](https://www.google.com/settings/ads)..
-    Third-Party Advertising: To opt out of cookies used for personalized advertising by other third-party vendors, please visit [www.aboutads.info](http://www.aboutads.info).
+  Personalized Advertising: Users can manage their preferences and opt out of personalized advertising by visiting [Ads Settings](https://www.google.com/settings/ads)..
+  Third-Party Advertising: To opt out of cookies used for personalized advertising by other third-party vendors, please visit [www.aboutads.info](http://www.aboutads.info).
 
 We encourage you to review these resources to better understand how your information is being used and how you can control it.
