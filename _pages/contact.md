@@ -1,6 +1,6 @@
 ---
 permalink: /contact/
-title: "Contact"
+title: "Contact Us"
 author_profile: true
 type: pages
 layout: single
@@ -12,8 +12,6 @@ layouts_gallery:
     alt: "giraffe centre"
 
 ---
-
-# Contact Us
 
 We would love to hear from you! Please fill out the form below to get in touch with us.
 
