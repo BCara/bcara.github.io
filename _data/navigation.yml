@@ -11,7 +11,7 @@ main:
   - title: "About"
     url: /about/
 - title: "Contact Us"
-    url: /contact/
+    url: /check/
   - title: "Privacy Policy"
     url: /privacypolicy/
 
