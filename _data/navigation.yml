@@ -10,7 +10,7 @@ main:
     url: /itinerary/
   - title: "About"
     url: /about/
-    sublinks:
+    children:
     - title: Contact
       url: /contact/
     - title: Privacy Policy
