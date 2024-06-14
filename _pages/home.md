@@ -8,7 +8,7 @@ header:
   
   
   caption:
-excerpt: 'Cara and Joes Travelling Adventures {::nomarkdown}{:/nomarkdown}'
+excerpt: 'Cara and Joes Travelling Adventures and Tips {::nomarkdown}{:/nomarkdown}'
 feature_row:
   - image_path: /assets/images/elephants-etosha-waterhole.jpg
     alt: "elephants at waterhole"
