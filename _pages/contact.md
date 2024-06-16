@@ -29,7 +29,7 @@ We would love to hear from you! Please fill out the form below to get in touch w
 </form>
 
 
-##Privacy Policy
+## Privacy Policy
 
 Welcome to Cara and Joe Travels ("we," "our," or "us"). Your privacy is of utmost importance to us, and we are committed to safeguarding your personal information. This Privacy Policy outlines how we collect, use, disclose, and protect your information when you visit our website.
 
